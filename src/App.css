@@ -1,0 +1,11 @@
+
+import 'bootstrap/dist/css/bootstrap.min.css';
+*{
+  font-family: 'Poppins', sans-serif;
+}
+h1{
+  text-align: center;
+}
+
+
+
